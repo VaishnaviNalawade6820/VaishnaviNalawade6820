@@ -1,0 +1,14 @@
+//Experiment No.2
+//Student Name:vaishnavi Anand Nalawade 
+//Roll No:153 Div:A  Batch:A3
+//Convert the Temperature from Celsius to Fahrenheit.
+#include<stdio.h>
+int main(){
+    float c;
+    float far;
+    printf("enter temperture in degree celcius(c): ");
+    scanf("%f", &c);
+    far=1.8*c+32;
+    printf("the requried tempreture in faranite=%f", far);
+    //printf("\nthe requrired strain=%f", strain);
+}
